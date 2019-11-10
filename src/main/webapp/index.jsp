@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Jenkins Test PSM pull, Successfully Deloyed War file in Tomcat!</h2>
+<h2>Jenkins Maven Test from GIT, Successfully Deloyed War file in Tomcat!</h2>
 </body>
 </html>
